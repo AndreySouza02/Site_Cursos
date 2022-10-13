@@ -8,8 +8,6 @@ body{
     width: 100%;
     /* Altura */
     height: 100vh;
-    /* Imagem de cima */
-    background-image: url(/img/dragao.jpg);
     /* Tamanho do fundo */
     background-size: cover;
     /* Tipo de caixa */
